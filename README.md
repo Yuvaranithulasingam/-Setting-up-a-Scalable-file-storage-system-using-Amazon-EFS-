@@ -1,4 +1,4 @@
-![{EE192BB2-3995-424F-BFD1-70525689CDEC}](https://github.com/user-attachments/assets/aa02d6b7-5813-4e2d-8f50-defb2a80d08d)# SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
+# SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
  
 ## AIM :
 To set up a scalable file storage system using Amazon Elastic File System (EFS) for two EC2 instances in different availability zones, enabling shared access to data.
